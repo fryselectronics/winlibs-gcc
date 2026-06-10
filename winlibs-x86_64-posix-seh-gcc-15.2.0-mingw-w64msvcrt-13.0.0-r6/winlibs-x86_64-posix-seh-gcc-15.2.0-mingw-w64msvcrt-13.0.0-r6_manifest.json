@@ -1,0 +1,93 @@
+{
+  "original_filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6.zip",
+  "total_bytes": 267135426,
+  "file_sha256": "d73d02c9caed172db0f3331fb4030e0a3b85947aefff9cc1da4dd81b7423c3a1",
+  "total_parts": 17,
+  "chunks": [
+    {
+      "part": 1,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_001.txt",
+      "chunk_sha256": "51c5053591d4d392ebf6a821cd472b127d886af80195bac453feedf5b52e3e37"
+    },
+    {
+      "part": 2,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_002.txt",
+      "chunk_sha256": "dee817b7da755b9249cd60f04a87093157c8adbad494d53748aed221db2757ca"
+    },
+    {
+      "part": 3,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_003.txt",
+      "chunk_sha256": "99b183549a3b74efc87f6216d5284a71edb4b1234a99b39b043be95e872d9463"
+    },
+    {
+      "part": 4,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_004.txt",
+      "chunk_sha256": "9d42c867b4b77328d02c96158832f88fb01d0ce10ff08173fe65c67f0398095f"
+    },
+    {
+      "part": 5,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_005.txt",
+      "chunk_sha256": "84d68ddd1a2624da40bb8232325c193d025cf0f87754cd7272ecc16123212e94"
+    },
+    {
+      "part": 6,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_006.txt",
+      "chunk_sha256": "309e61288627b0d9cc16c999ead41fc5bff3e2959943aa60b626865f30abc32a"
+    },
+    {
+      "part": 7,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_007.txt",
+      "chunk_sha256": "24759b75e0dfbcfbcf4778c38e77d866e1ebc723fab0320c79ef745f030dba8e"
+    },
+    {
+      "part": 8,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_008.txt",
+      "chunk_sha256": "5c36b57c57eb33545344170f8c3f11a789e8d46d330a4db1506d0ac6a6dfe531"
+    },
+    {
+      "part": 9,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_009.txt",
+      "chunk_sha256": "9e2db5fa0a49557c9d720bd6a5151c11d433d9350deac157c8547d291bd5c6f5"
+    },
+    {
+      "part": 10,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_010.txt",
+      "chunk_sha256": "44132572ca6571bdd2252445ffbd6258f4e448948c520beb29cd62de0a2f1a9c"
+    },
+    {
+      "part": 11,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_011.txt",
+      "chunk_sha256": "627759135b40e364fda08e7c0d38d08bb0eaaf7f1eae2d198fa1cd26763decb2"
+    },
+    {
+      "part": 12,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_012.txt",
+      "chunk_sha256": "307ce62c8f1365861a70f5f3d65e94afd8fc8bd7eb13c6f78e31e172b7a4ff1c"
+    },
+    {
+      "part": 13,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_013.txt",
+      "chunk_sha256": "2061acde856d2ef00b099a749a30fbf0a4568a1f57e597f626158cfaa6423a5d"
+    },
+    {
+      "part": 14,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_014.txt",
+      "chunk_sha256": "27df8e581f7299b9e914f923d603b952d912a7c3bec998a55d2467b53601270b"
+    },
+    {
+      "part": 15,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_015.txt",
+      "chunk_sha256": "3f9baaed6d17b98e034030e730caa68f57cd5cc1a90b3c11bba7532d850a1cce"
+    },
+    {
+      "part": 16,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_016.txt",
+      "chunk_sha256": "8ade5fd85c33a472fe789242488cbdccab7d7b3af2814e2cd8f667245bb757bc"
+    },
+    {
+      "part": 17,
+      "filename": "winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r6_part_017.txt",
+      "chunk_sha256": "38fc49ac2ba7d914a6fca2ea385482ae6050d6de5e69e83e0a508768d04ea632"
+    }
+  ]
+}
